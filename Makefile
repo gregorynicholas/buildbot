@@ -1,3 +1,5 @@
+# Why does this even exist? Why not make this a shell or python script??
+
 # developer utilities
 
 .PHONY: docs apidocs pylint
